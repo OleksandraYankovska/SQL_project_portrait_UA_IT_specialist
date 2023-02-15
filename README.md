@@ -3,7 +3,8 @@ SQL and Tableau Data Analysis | Gender portrait of Ukrainian IT specialists 2022
 
 
 
-## [Click to view Tableau visualization of this project](https://public.tableau.com/app/profile/oleksandra2847/viz/GenderportraitofUkrainianITspecialists2022/Agemaritalstatuschildren)
+## [Click to view Tableau visualization of this project](
+https://public.tableau.com/app/profile/oleksandra2847/viz/GenderportraitofUkrainianITspecialists2022/Intro)
 
 The Tableau project contains 3 dashboards: Intro; Age, marital status, children; Map
 
