@@ -11,7 +11,7 @@ The Tableau project contains 3 dashboards: Intro; Age, marital status, children;
 ⬆️ 
 This data was collected by the team [DOU.UA](https://dou.ua) . 
 This resource is very popular in Ukraine. It provides statistics, shows current vacancies and publishes useful articles related to the life of an IT specialist.
-This dataset was taken from the public repository [https://github.com/devua/csv/tree/master/portrait ](https://github.com/devua/csv/tree/master/portrait)
+This dataset was taken from the [public repository](https://github.com/devua/csv/tree/master/portrait)
 
 After downloading the CSV dataset I used Excel to split data into multiple datasets.
 The above datasets in .xlsx I converted to .json to import them into MySQL Workbench.
@@ -40,10 +40,13 @@ The names of the columns from the original data set I replaced with the relevant
   4.1 The connection between knowledge of English and the level of satisfaction with salary;
   4.2 The connection between hours of work per week and the level of satisfaction with salary;
 	
-  5. Emotions by gender at the time of the survey
+   5. Emotions by gender at the time of the survey
   
   
- So for this goal in my project I will not use all the data from the original data set but the following: 
+  
+  
+For this purpose, in my project I did not use all the data(column) from the original dataset, but the following:
+
   1) Ваша стать; Ваш вік; Ваш сімейний стан; Чи є у вас діти?;
   2) Стовпець1; Де живуть зараз - області; Де живуть зараз - країни; Чи переїжджали ви через початок війни?; Ви зараз живете…;Що ви думаєте про еміграцію з України?; В який регіон України ви переїхали через війну?; Чи плануєте ви повернутися?; Де ви зараз працюєте?; Чи плануєте ви повернутися?2;
   3) Оберіть вашу посаду; Ваш тайтл; Загальний стаж роботи в ІТ;
