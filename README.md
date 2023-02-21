@@ -20,7 +20,7 @@ To build a Conceptual Model I used Entity relationship diagram
 The names of the columns from the original data set I replaced with the relevant names in English to simplify the SQL Script. 
   
   
-  ### The main questions:
+  ## The main questions:
   
   1.1 Total number of IT specialists by gender
   
@@ -59,7 +59,7 @@ ______
 ______
  5. Emotions by gender at the time of the survey
   
-  
+______
   
   
 For this purpose, in my project I did not use all the data(columns) from the original dataset, but the following:
