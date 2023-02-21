@@ -29,6 +29,7 @@ The names of the columns from the original data set I replaced with the relevant
   1.3 Total number by level and by gender
   
   
+  
   2.1 IT specialists by age; the oldest and the youngest person by gender
   
   2.2 Marital status of IT specialists by gender
@@ -44,15 +45,18 @@ The names of the columns from the original data set I replaced with the relevant
   2.6 Plans to come back to Ukraine / plans to move from Ukraine by gender
   
   
+  
   3.1 Education level by gender
   
   3.2 Knowledge of English by gender and by position; 
+  
   
   
   4.1 The connection between knowledge of English and the level of satisfaction with salary;
   
   4.2 The connection between hours of work per week and the level of satisfaction with salary;
 	
+
 
   5. Emotions by gender at the time of the survey
   
