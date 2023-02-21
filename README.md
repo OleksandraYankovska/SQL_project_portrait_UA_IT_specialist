@@ -28,7 +28,7 @@ The names of the columns from the original data set I replaced with the relevant
   
   1.3 Total number by level and by gender
   
-  
+______
   
   2.1 IT specialists by age; the oldest and the youngest person by gender
   
@@ -44,26 +44,25 @@ The names of the columns from the original data set I replaced with the relevant
   
   2.6 Plans to come back to Ukraine / plans to move from Ukraine by gender
   
-  
+______
   
   3.1 Education level by gender
   
   3.2 Knowledge of English by gender and by position; 
   
-  
-  
+______  
   4.1 The connection between knowledge of English and the level of satisfaction with salary;
   
   4.2 The connection between hours of work per week and the level of satisfaction with salary;
 	
 
-
-  5. Emotions by gender at the time of the survey
+______
+ 5. Emotions by gender at the time of the survey
   
   
   
   
-For this purpose, in my project I did not use all the data(column) from the original dataset, but the following:
+For this purpose, in my project I did not use all the data(columns) from the original dataset, but the following:
 
   1) Ваша стать; Ваш вік; Ваш сімейний стан; Чи є у вас діти?;
   2) Стовпець1; Де живуть зараз - області; Де живуть зараз - країни; Чи переїжджали ви через початок війни?; Ви зараз живете…;Що ви думаєте про еміграцію з України?; В який регіон України ви переїхали через війну?; Чи плануєте ви повернутися?; Де ви зараз працюєте?; Чи плануєте ви повернутися?2;
