@@ -20,27 +20,41 @@ To build a Conceptual Model I used Entity relationship diagram
 The names of the columns from the original data set I replaced with the relevant names in English to simplify the SQL Script. 
   
   
-  ### The main questions we had:
+  ### The main questions:
   
   1.1 Total number of IT specialists by gender
+  
   1.2 Total number by position and by gender 
+  
   1.3 Total number by level and by gender
   
+  
   2.1 IT specialists by age; the oldest and the youngest person by gender
+  
   2.2 Marital status of IT specialists by gender
+  
   2.2.1 Children of IT specialists
+  
   2.3 Total number of persons staying in Ukraine and the number of people who are abroad, by gender, at the time of the survey
+  
   2.4 Total number of persons staying in Ukraine by region
+  
   2.5 10 countries to which Ukrainian IT specialists moved the most because of the war, by gender
+  
   2.6 Plans to come back to Ukraine / plans to move from Ukraine by gender
   
+  
   3.1 Education level by gender
+  
   3.2 Knowledge of English by gender and by position; 
   
+  
   4.1 The connection between knowledge of English and the level of satisfaction with salary;
+  
   4.2 The connection between hours of work per week and the level of satisfaction with salary;
 	
-   5. Emotions by gender at the time of the survey
+
+  5. Emotions by gender at the time of the survey
   
   
   
